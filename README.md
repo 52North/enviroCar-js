@@ -1,3 +1,7 @@
+## ARCHIVED
+
+This project is no longer maintained and will not receive any further updates. If you plan to continue using it, please be aware that future security issues will not be addressed.
+
 ## enviroCar-js
 
 JavaScript components for enviroCar maps -  based on the ESRI ArcGIS JavaScript API 3.5.
